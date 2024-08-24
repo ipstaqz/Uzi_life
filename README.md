@@ -1,5 +1,8 @@
-# Uzi_life
+# uzi-life
 
-This is a school proyect, and the first ipstaqz work.
+Ola
+Has encontrado la pagina donde subi la pagina de mi autobiografia
+No se que mas decir-
+(Grande github que deja subir paginas ras rapido aqui)
 
--ipstaqz
+Que tengas buen dia :>
